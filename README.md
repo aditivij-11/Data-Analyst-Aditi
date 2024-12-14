@@ -1,5 +1,8 @@
 # Exploratory Data Analysis
 
+![Exploratory Data Analysis](/images/eda.png)
+
+
 **Project Description:**
 The project focuses on understanding employee expenses versus remuneration for roles earning above $75,000 in the City of Vancouver. It analyzes the average expense per job title to inform financial planning and resource allocation.
 
@@ -30,6 +33,8 @@ Employee remuneration and expenses dataset, with columns for job titles, remuner
 
 # Descriptive Analysis
 
+![Descriptive Analysis](/images/description.png)
+
 **Project Description:**
 This analysis evaluates the expense-to-remuneration ratio for roles earning above $75,000 in the City of Vancouver.
 
@@ -57,6 +62,8 @@ Employee remuneration and expense records.
 - Insights into high-spending job titles.
 
 # Diagnostic Analysis
+
+![Diagnostic Analysis](/images/diagnostic.png)
 
 **Project Description:**
 Examine expense patterns to pinpoint inefficiencies or irregularities in spending relative to remuneration.
@@ -91,6 +98,8 @@ Remuneration and expense records from AWS S3.
 
 # Data Wrangling
 
+![Data Wrangling](/images/wrangling.png)
+
 **Project Description:**
 Prepare the dataset by resolving inconsistencies and ensuring data readiness for analysis.
 
@@ -123,6 +132,9 @@ Employee remuneration and expenses stored in Amazon S3 buckets.
 - Three weeks for profiling, cleaning, and structuring.
 
 # Data Quality Control
+
+![Data Quality Control](/images/quality-control.png)
+
 
 **Project Description:**
 Ensure data reliability through comprehensive quality checks and governance protocols.
